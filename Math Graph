@@ -1,5 +1,6 @@
-```python
-
-x=5
-
+Some basic Git commands are:
+```
+git status
+git add
+git commit
 ```
